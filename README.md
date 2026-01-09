@@ -1,5 +1,5 @@
-# uas---pemrogramanmobile
-# 📱 APLIKASI CATATAN HARIAN
+# uas - pemrogramanmobile
+## 📱 APLIKASI CATATAN HARIAN
 **Tugas Pemrograman Mobile**
 
 **Nama:** [Nama Kamu]  
